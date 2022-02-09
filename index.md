@@ -7,6 +7,7 @@ working on fraud detection project...
 
 A banking case study projects for EDA. 
 the purpose was to study for the defaulters pattern against certain inputs a Bank had.
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/gautamk2190/Lending-club-case-repository)
 
 # Hypothesis and inferential statistics
