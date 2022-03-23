@@ -1,7 +1,12 @@
 
 # AI ML Projects
 
-working on fraud detection project...
+project 1:
+
+Objective is to model the predict demand for shared bikes with the available independent variables 
+and to understand how exactly the demands may vary with different features.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://https://github.com/gautamk2190/Rental-bike-ML-prediction-project.)
 
 # EDA
 
