@@ -6,6 +6,12 @@ and understand how the cost vary with different features.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/gautamk2190/car_price_prediction)
 
+## Rental bike demand prediction
+
+building a model to understand the nature of variable that infulences that demand of rental bike 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/gautamk2190/Rental-bike-ML-prediction-project.)
+
 ## Lending club case study
 
 A banking case study projects for EDA. 
